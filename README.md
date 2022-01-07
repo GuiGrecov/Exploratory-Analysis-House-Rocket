@@ -24,7 +24,22 @@ As cassa possuem muitos atributos que as tornam mais atrativas para compra um de
 
 * 2- A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?
 
+* 3 - Qual seria o lucra das vendas seguindo a análise?
 
 
 # 4. Planejamento da Solução
 
+## 4.1 Primeira Análise 
+Nossa primeira análise foi verificar do que se tratavam os dados que tínhamos em mãos. Fizemos uma tabela com informações de média, mediana, desvio padrão, máximo, mínimo, range... 
+![image](https://user-images.githubusercontent.com/94385953/148584168-aa4e6b93-3ef4-4d02-8a97-7f352929d43b.png)
+Já por meio dessa primeira análise podemos verifica que o empreendimento mais caro custou $ 7.700.000,00 e nosso empreendimento com menor custo foi de $ 75.000,00. Tendo em média aproximadamento o custo de $ 540.000,00 e como mediana o custo de $ 450.000,00. A mediana nessa análise se torna mais juta pelo simples fato de que os outliers dos preços dos empreendimentos podem influenciar muito nossa média. 
+
+## 4.2 Cálculo da mediana por região.
+Utilizamos comandas em python com a biblioteca "pandas" para conseguir organizar o que precisavamos para calcular o preço da mediana pelo ZIP CODE.
+![image](https://user-images.githubusercontent.com/94385953/148584917-556f1aef-adf5-4fd5-a0a3-615d87516cb8.png)
+Ao final tivemos uma nova tabela com uma coluna chamada de "price_median", como também uma nova coluna chamada "STATUS": caso o preço que a casa custa esteja acima do preço da mediana de mercado aparecerá a palavra **"não compra"**, porque o preço que iremos pagar seria mais alto e ficaremos no prejuízo. Caso o preço esteja abaixo da mediana de mercado a palavra que aparecerá será "**compra**". 
+
+
+
+
+# 5. Desenvolvimento da Hipótese e Correlação
