@@ -91,5 +91,5 @@ Visualizaação da quantidade sem vistas para o mar x vistas para o mar.
 ## 6.3 Qual seria o lucra das vendas seguindo a análise?
 Temos a tabela abaixo que mostra o lucro das vendas dividido por qualidade das casas: 
 ![image](https://user-images.githubusercontent.com/94385953/148587663-99eec409-970e-4bd3-baf0-b5f6f11c763d.png)
-O lucro da vendas das 10923 casas é de $706989594.08. 
+<br> O lucro da vendas das 10923 casas é de $706989594.08. 
 
