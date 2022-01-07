@@ -73,4 +73,23 @@ Visualizaação da quantidade sem vistas para o mar x vistas para o mar.
 ## 6.1 Quais casas a House Rocket deveria comprar e por qual preço de compra?
 > Temos ao todo 10713 casas abaixo da mediana de mercado.
 > <br> Ao todo temos 703 casas abaixo da mediana de mercado e com condição boa 
+> As casas com condições bad deveriam passar por uma reforma para se tornarem mais atraentes. Já as casas em condições regulares precisariam ser selecionadas caso a caso
+> <br> São 10170 casas que estão com preço menor que a mediana de mercado, estando em condição má ou regular 
+> <br> São 160 casas que estão com preço menor que a mediana de mercado, estando em condição má
+> <br> São 10010 casas que estão com preço menor que a mediana de mercado, estando em condição regular 
+
+## 6.2 A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quanto custaria a reforma?
+> * Casas com condições bad devem ter um custo de até 30% no valor na reforma.
+> * Casas com condições regular devem ter um custo de até 10% no valor na reforma.
+> * * As casas podem ter um acrécimo ou diminuição nessa porcentagem de acordo com o grau de qualidade do imóvel
+> Temos ao todo 8226 empreendimentos que vale a pena a compra. Os quais teremos um maior retorno, mesmo após a reforma
+> <br> Somatoria das casa com codições bad $43634181.0, e somatoria custo reforma $13090254.3.
+> <br> Somatoria das casa com codições good $286250420.0, e somatoria custo reforma $0.0.
+> <br> Somatoria das casa com codições regular $3903436767.0, e somatoria custo reforma $390343676.70.
+
+
+## 6.3 Qual seria o lucra das vendas seguindo a análise?
+Temos a tabela abaixo que mostra o lucro das vendas dividido por qualidade das casas: 
+![image](https://user-images.githubusercontent.com/94385953/148587663-99eec409-970e-4bd3-baf0-b5f6f11c763d.png)
+O lucro da vendas das 10923 casas é de $706989594.08. 
 
