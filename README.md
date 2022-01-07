@@ -32,7 +32,7 @@ As cassa possuem muitos atributos que as tornam mais atrativas para compra um de
 ## 4.1 Primeira Análise 
 Nossa primeira análise foi verificar do que se tratavam os dados que tínhamos em mãos. Fizemos uma tabela com informações de média, mediana, desvio padrão, máximo, mínimo, range...<br> 
 ![image](https://user-images.githubusercontent.com/94385953/148584168-aa4e6b93-3ef4-4d02-8a97-7f352929d43b.png)
-Já por meio dessa primeira análise podemos verifica que o empreendimento mais caro custou $ 7.700.000,00 e nosso empreendimento com menor custo foi de $ 75.000,00. Tendo em média aproximadamento o custo de $ 540.000,00 e como mediana o custo de $ 450.000,00. A mediana nessa análise se torna mais juta pelo simples fato de que os outliers dos preços dos empreendimentos podem influenciar muito nossa média. 
+<br>Já por meio dessa primeira análise podemos verifica que o empreendimento mais caro custou $ 7.700.000,00 e nosso empreendimento com menor custo foi de $ 75.000,00. Tendo em média aproximadamento o custo de $ 540.000,00 e como mediana o custo de $ 450.000,00. A mediana nessa análise se torna mais juta pelo simples fato de que os outliers dos preços dos empreendimentos podem influenciar muito nossa média. 
 
 ## 4.2 Cálculo da mediana por região.
 Utilizamos comandas em python com a biblioteca "pandas" para conseguir organizar o que precisavamos para calcular o preço da mediana pelo ZIP CODE.
