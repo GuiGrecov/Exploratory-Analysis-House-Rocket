@@ -43,12 +43,10 @@ Ao final tivemos uma nova tabela com uma coluna chamada de "price_median", como 
 # 5. Desenvolvimento da Hipótese e Correlação
 
 * **H1.** A maioria das casas com 3 quartos são acima da mediana do preço? 
-<br> 
-**FALSA** A maioria das casas estão abaixo da mediana de mercado. 
+<br> **FALSA** A maioria das casas estão abaixo da mediana de mercado. 
 
 * **H2.** A maioria das casas com 3 quartos e 2 banheiros são acima da mediana do preço. 
-<br>
-**FALSA** Pelo o que conseguimos apurar algo que influência muito é a localização que se encontra esse empreendimento. 
+<br>**FALSA** Pelo o que conseguimos apurar algo que influência muito é a localização que se encontra esse empreendimento. 
 
 * **H3.** Casas com com vista para água são 100% mais caras que a mediana do preço.
 <br> **VERDADEIRO** Casas que tem a vista para o mar são 100% mais caras que a mediana do preço. Esse é um motivo clássico da procura e oferta, temos poucas casas disponíveis em frente ao mar. Quando há vendas essas custam o dobre do preço da compra. 
