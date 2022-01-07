@@ -40,7 +40,7 @@ Utilizamos comandas em python com a biblioteca "pandas" para conseguir organizar
 Ao final tivemos uma nova tabela com uma coluna chamada de "price_median", como também uma nova coluna chamada "STATUS": caso o preço que a casa custa esteja acima do preço da mediana de mercado aparecerá a palavra **"não compra"**, porque o preço que iremos pagar seria mais alto e ficaremos no prejuízo. Caso o preço esteja abaixo da mediana de mercado a palavra que aparecerá será "**compra**". 
 
 
-# 5. Desenvolvimento da Hipótese e Correlação
+# 5. Desenvolvimento da Hipótese.
 
 * **H1.** A maioria das casas com 3 quartos são acima da mediana do preço? 
 <br> **FALSA** A maioria das casas estão abaixo da mediana de mercado. 
@@ -68,4 +68,9 @@ Visualizaação da quantidade sem vistas para o mar x vistas para o mar.
 ## 5.1 Tabela de Hipóteses: 
 ![image](https://user-images.githubusercontent.com/94385953/148586668-8c5dd57d-6f9a-4964-8108-a3b6c2dfc8c3.png)
 
+# 6. Resultados
+
+## 6.1 Quais casas a House Rocket deveria comprar e por qual preço de compra?
+> Temos ao todo 10713 casas abaixo da mediana de mercado.
+> Ao todo temos 703 casas abaixo da mediana de mercado e com condição boa 
 
