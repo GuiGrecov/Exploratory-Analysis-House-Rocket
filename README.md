@@ -66,12 +66,6 @@ Visualizaação da quantidade sem vistas para o mar x vistas para o mar.
 <br> **VERDADEIRO** A maioria das casas novas são mais caras que a mediana de mercado.
 
 ## 5.1 Tabela de Hipóteses: 
+![image](https://user-images.githubusercontent.com/94385953/148586668-8c5dd57d-6f9a-4964-8108-a3b6c2dfc8c3.png)
 
-HIPÓTESE	RESULTADO	RELEVÂNCIA
-0	H1	FALSA	BAIXA
-1	H2	FALSA	BAIXA
-2	H3	VERDADEIRO	ALTA
-3	H4	VERDADEIRO	BAIXA
-4	H5	VERDADEIRO	MEDIA
-5	H6	VERDADEIRO	ALTA
-6	H7	VERDADEIRO	BAIXA
+
