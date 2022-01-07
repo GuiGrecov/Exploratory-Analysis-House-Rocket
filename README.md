@@ -111,8 +111,12 @@ Esse dashboard foi formulado para o CEO ter as suas próprias análises
 * Tabela dos Dados 
 ![image](https://user-images.githubusercontent.com/94385953/148588791-3f4d85ad-c12c-45cb-8f74-f6937c5b168d.png)
 
+## 7.2 Filtros do Power BI 
+![image](https://user-images.githubusercontent.com/94385953/148597377-8d7ad271-266e-4ee6-894d-ee7989091425.png)
+<br>
 
-## 7.2 Acesso
+
+## 7.3 Acesso
 Os nossos relatórios do Power BI podem ser acessados e executados localmente seguindo esse link: https://github.com/GuiGrecov/House-Rocket/tree/main/dashboard_PowerBI
 
 
