@@ -93,3 +93,28 @@ Temos a tabela abaixo que mostra o lucro das vendas dividido por qualidade das c
 ![image](https://user-images.githubusercontent.com/94385953/148587663-99eec409-970e-4bd3-baf0-b5f6f11c763d.png)
 <br> O lucro da vendas das 10923 casas é de $706989594.08. 
 
+# 7. Dashboard feito em Power BI 
+Esse dashboard foi formulado para o CEO ter as suas próprias análises
+
+* Home  
+![image](https://user-images.githubusercontent.com/94385953/148588494-91d254ef-8a81-43f6-8156-36b588b38979.png)
+
+* Resumo dos Dados 
+![image](https://user-images.githubusercontent.com/94385953/148588656-7c1b4f13-125e-414f-a68a-9de8974fd66b.png)
+
+* Principais Indicadores
+![image](https://user-images.githubusercontent.com/94385953/148588574-4c550d86-3bca-4c13-93e5-27eb3355c703.png)
+
+* Mapa dos Imóveis 
+![image](https://user-images.githubusercontent.com/94385953/148588719-26d4abe8-1f4c-476a-98cc-875a49350b20.png)
+
+* Tabela dos Dados 
+![image](https://user-images.githubusercontent.com/94385953/148588791-3f4d85ad-c12c-45cb-8f74-f6937c5b168d.png)
+
+
+## 7.2 Acesso
+Os nossos relatórios do Power BI podem ser acessados e executados localmente seguindo esse link: https://github.com/GuiGrecov/House-Rocket/tree/main/dashboard_PowerBI
+
+
+
+
