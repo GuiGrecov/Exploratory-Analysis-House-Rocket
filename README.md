@@ -72,5 +72,5 @@ Visualizaação da quantidade sem vistas para o mar x vistas para o mar.
 
 ## 6.1 Quais casas a House Rocket deveria comprar e por qual preço de compra?
 > Temos ao todo 10713 casas abaixo da mediana de mercado.
-> Ao todo temos 703 casas abaixo da mediana de mercado e com condição boa 
+> <br> Ao todo temos 703 casas abaixo da mediana de mercado e com condição boa 
 
