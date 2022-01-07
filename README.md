@@ -40,6 +40,31 @@ Utilizamos comandas em python com a biblioteca "pandas" para conseguir organizar
 Ao final tivemos uma nova tabela com uma coluna chamada de "price_median", como também uma nova coluna chamada "STATUS": caso o preço que a casa custa esteja acima do preço da mediana de mercado aparecerá a palavra **"não compra"**, porque o preço que iremos pagar seria mais alto e ficaremos no prejuízo. Caso o preço esteja abaixo da mediana de mercado a palavra que aparecerá será "**compra**". 
 
 
-
-
 # 5. Desenvolvimento da Hipótese e Correlação
+
+* **H1.** A maioria das casas com 3 quartos são acima da mediana do preço? 
+<br> 
+**FALSA** A maioria das casas estão abaixo da mediana de mercado. 
+
+* **H2.** A maioria das casas com 3 quartos e 2 banheiros são acima da mediana do preço. 
+<br>
+**FALSA** Pelo o que conseguimos apurar algo que influência muito é a localização que se encontra esse empreendimento. 
+
+* **H3.** Casas com com vista para água são 100% mais caras que a mediana do preço.
+<br> **VERDADEIRO** Casas que tem a vista para o mar são 100% mais caras que a mediana do preço. Esse é um motivo clássico da procura e oferta, temos poucas casas disponíveis em frente ao mar. Quando há vendas essas custam o dobre do preço da compra. 
+![image](https://user-images.githubusercontent.com/94385953/148585909-3c0783b3-6e3b-49b1-9353-e1400177cd61.png)
+Visualizaação da quantidade sem vistas para o mar x vistas para o mar. 
+
+* **H4.** A maioria das casas com porão e 2 andares são mais caras que que a mediana do preço.
+<br> **VERDADEIRO** A maioria as casas com essas caractetrísticas são mais caras do que a mediana de mercado. 
+
+* **H5.** A maioria das casas com datas acima de 1990 que tiveram reformas são mais caras que a mediana.
+<br> **VERDADEIRO** Todas as casas com essas caractetrísticas são mais caras do que a mediana de mercado. 
+
+* **H6.** A maioria das casas antigas são mais caras que a mediana de mercado. 
+<br> **VERDADEIRO** A maioria das casas antigas forma vendidas mais caro do que a mediana de mercado. Porém essa diferença ficou com uma diferença de quase 100 casas vendidas mais cara do que a mediana de mercado. 
+
+* **H7.** A maioria das casas novas são mais caras que a mediana de mercado¶
+<br> **VERDADEIRO** A maioria das casas novas são mais caras que a mediana de mercado.
+
+
